@@ -14,3 +14,4 @@ killall -u <YOUR_USERNAME> cfprefsd
 Berechtigungen
 - chmod +x 
 
+  
